@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alexanderjfranco.com/static/css/main.560aa2bc.css",
-    "main.js": "/alexanderjfranco.com/static/js/main.3f1761e8.js",
+    "main.js": "/alexanderjfranco.com/static/js/main.b7bb903b.js",
     "static/media/me__.png": "/alexanderjfranco.com/static/media/me__.ebb143ea4f64eaf65404.png",
     "static/media/P2.jpg": "/alexanderjfranco.com/static/media/P2.802bfe851c33176d1b4c.jpg",
     "static/media/mips.png": "/alexanderjfranco.com/static/media/mips.c69a2fcae4877ce98e8b.png",
@@ -13,10 +13,10 @@
     "static/media/TWITTER.png": "/alexanderjfranco.com/static/media/TWITTER.3a7feed0f46b60a94d55.png",
     "index.html": "/alexanderjfranco.com/index.html",
     "main.560aa2bc.css.map": "/alexanderjfranco.com/static/css/main.560aa2bc.css.map",
-    "main.3f1761e8.js.map": "/alexanderjfranco.com/static/js/main.3f1761e8.js.map"
+    "main.b7bb903b.js.map": "/alexanderjfranco.com/static/js/main.b7bb903b.js.map"
   },
   "entrypoints": [
     "static/css/main.560aa2bc.css",
-    "static/js/main.3f1761e8.js"
+    "static/js/main.b7bb903b.js"
   ]
 }
