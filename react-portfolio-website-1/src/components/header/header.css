@@ -1,0 +1,112 @@
+header{
+    height:100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+
+}
+
+.custom-shape-divider-top-1675020907 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1675020907 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 188px;
+}
+
+.custom-shape-divider-top-1675020907 .shape-fill {
+    fill: #6AB3BD;
+}
+
+.header_container{
+    text-align: center;
+    height: 100%;
+    position: relative;
+
+}
+
+/*CTA*/
+.cta{
+    margin-top: 2.5rem;                     /*Provides space above buttons*/
+    display: flex;
+    gap: 1.2rem;                            /*Provides space in between buttons*/
+    justify-content: center;
+}
+
+/*Header Socials*/
+.header_socials{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+    position: absolute;
+    left: 0;
+    bottom: 17rem;
+    
+}
+
+.me{
+    background: var(--color-primary);
+    background: linear-gradient(var(--color-primary),transparent);
+    width: 33rem;
+    height: 36rem;
+    position: absolute;
+    text-align: center;
+    left: calc(50% - 15rem);
+    margin-top: 1.5rem;
+    border-radius: 1.5rem 1.5rem 1.2rem ;
+    overflow: hidden;
+    padding:  10rem 1.5rem 1.5rem;
+}
+
+.header_socials::after{
+    content: '';
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+}
+
+
+
+/*SCROLL DOWN*/
+.scroll_down{
+    position: absolute;
+    right: -2.3rem;
+    bottom: 25rem;
+    transform: rotate(90deg);
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
+/*Media Query Medium Devices*/
+@media screen and (max-width: 1024px){
+    header{
+        height: 68vh;
+    }
+
+   
+}
+
+/*Media Query Small Devices*/
+@media screen and (max-width: 1024px){
+    header{
+        height: 100vh;
+    }
+    .me{
+        width: 22rem;
+        height: 24rem;
+        left: calc(50% - 11rem);
+    
+    }
+
+    .header_socials,.scroll_down{
+        display: none;
+    }
+}
