@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/alexanderjfranco.com/static/css/main.560aa2bc.css",
-    "main.js": "/alexanderjfranco.com/static/js/main.b7bb903b.js",
-    "static/media/me__.png": "/alexanderjfranco.com/static/media/me__.ebb143ea4f64eaf65404.png",
-    "static/media/P2.jpg": "/alexanderjfranco.com/static/media/P2.802bfe851c33176d1b4c.jpg",
-    "static/media/mips.png": "/alexanderjfranco.com/static/media/mips.c69a2fcae4877ce98e8b.png",
-    "static/media/inventory.png": "/alexanderjfranco.com/static/media/inventory.9b27a747390aaf71cea9.png",
-    "static/media/stock.jpeg": "/alexanderjfranco.com/static/media/stock.e7de634d80dabb7fbd57.jpeg",
-    "static/media/discord_music.png": "/alexanderjfranco.com/static/media/discord_music.051977547334d3a436fb.png",
-    "static/media/sudoku.png": "/alexanderjfranco.com/static/media/sudoku.a2b2cfb08c62707a788d.png",
-    "static/media/Header.pdf": "/alexanderjfranco.com/static/media/Header.473dd342c384926a1b7f.pdf",
-    "static/media/TWITTER.png": "/alexanderjfranco.com/static/media/TWITTER.3a7feed0f46b60a94d55.png",
-    "index.html": "/alexanderjfranco.com/index.html",
-    "main.560aa2bc.css.map": "/alexanderjfranco.com/static/css/main.560aa2bc.css.map",
-    "main.b7bb903b.js.map": "/alexanderjfranco.com/static/js/main.b7bb903b.js.map"
+    "main.css": "/static/css/main.560aa2bc.css",
+    "main.js": "/static/js/main.f4c98cd1.js",
+    "static/media/me__.png": "/static/media/me__.ebb143ea4f64eaf65404.png",
+    "static/media/P2.jpg": "/static/media/P2.802bfe851c33176d1b4c.jpg",
+    "static/media/mips.png": "/static/media/mips.c69a2fcae4877ce98e8b.png",
+    "static/media/inventory.png": "/static/media/inventory.9b27a747390aaf71cea9.png",
+    "static/media/stock.jpeg": "/static/media/stock.e7de634d80dabb7fbd57.jpeg",
+    "static/media/discord_music.png": "/static/media/discord_music.051977547334d3a436fb.png",
+    "static/media/sudoku.png": "/static/media/sudoku.a2b2cfb08c62707a788d.png",
+    "static/media/Header.pdf": "/static/media/Header.473dd342c384926a1b7f.pdf",
+    "static/media/TWITTER.png": "/static/media/TWITTER.3a7feed0f46b60a94d55.png",
+    "index.html": "/index.html",
+    "main.560aa2bc.css.map": "/static/css/main.560aa2bc.css.map",
+    "main.f4c98cd1.js.map": "/static/js/main.f4c98cd1.js.map"
   },
   "entrypoints": [
     "static/css/main.560aa2bc.css",
-    "static/js/main.b7bb903b.js"
+    "static/js/main.f4c98cd1.js"
   ]
 }
