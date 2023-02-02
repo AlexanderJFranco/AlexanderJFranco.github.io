@@ -6,8 +6,15 @@ import IMG3 from '../../assets/discord_music.png'
 import IMG4 from '../../assets/sudoku.png'
 import IMG5 from '../../assets/inventory.png'
 import IMG6 from '../../assets/mips.png'
+import IMG7 from '../../assets/stock_rest_api.jpg'
 
 const data = [
+  {
+    id:1,
+    image: IMG7,
+    title: 'Express Stock Report REST API',
+    github:'https://github.com/AlexanderJFranco/Stock_Report'
+  },
   {
     id:1,
     image: IMG1,
@@ -28,7 +35,6 @@ const data = [
     title: 'Discord Music Bot',
     github:'https://github.com/AlexanderJFranco/Music-Bot'
   },
-
   {
     id:1,
     image: IMG4,
@@ -46,7 +52,7 @@ const data = [
   {
     id:1,
     image: IMG6,
-    title: 'MIPS Compiler In C++',
+    title: 'MIPS Compiler In C',
     github:'https://github.com/AlexanderJFranco/Mips_Compiler'
   }
  

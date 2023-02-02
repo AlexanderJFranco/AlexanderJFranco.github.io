@@ -46,7 +46,7 @@ const About = () => {
         </article>
       </div>
       <p>My name is Alexander Franco. I am a proud graduate of Florida State University's Computer Science Bachelors program. Since a young age I have always been intrigued by inventive characters in film and media, an interest that would eventually 
-        bring me to pursue a career in what I deemed the pinnacle of inventive thinking: Computer Science. In a field so vast and ever-expanding it can be hard to share what you are about with a simple resume, so I hope that this website can help 
+        bring me to pursue a career in what I believe to be the pinnacle of inventive thinking: Computer Science. In a field so vast and ever-expanding it can be hard to share what you are about with a simple resume, so I hope that this website can help 
         you get to know me a bit more. I am by no means the perfect developer, but I believe few people can provide the unerring attention to both code and team members that I can. I care about the things I do and those I work with, and believe that any
         workplace that holds these same values is bound to produce great things.</p>
 
